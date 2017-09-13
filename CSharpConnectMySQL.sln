@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConnectMySQL", "CSharpConnectMySQL\CSharpConnectMySQL.csproj", "{951284BD-CD55-4157-82E0-2F84ED48AEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateConnectMySQL", "NHibernateConnectMySQL\NHibernateConnectMySQL.csproj", "{CC0C4532-8251-4E92-925B-2478FB2D1513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951284BD-CD55-4157-82E0-2F84ED48AEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951284BD-CD55-4157-82E0-2F84ED48AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951284BD-CD55-4157-82E0-2F84ED48AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951284BD-CD55-4157-82E0-2F84ED48AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0C4532-8251-4E92-925B-2478FB2D1513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0C4532-8251-4E92-925B-2478FB2D1513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0C4532-8251-4E92-925B-2478FB2D1513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0C4532-8251-4E92-925B-2478FB2D1513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

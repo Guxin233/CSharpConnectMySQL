@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="NHibernateConnectMySQL"
+                   namespace="NHibernateConnectMySQL.Model"> <!-- 项目所在的程序集；该配置文件所关联的User.cs类所在的名称空间 -->
+
+  <class name="User" table="user"> <!-- 指定名称空间下的User类，要与数据库中的user表映射 -->
+    <id name="Id" column="user_id" type="Int32"> <!-- 配置主键。类中的Id属性映射表中的user_id列 -->
+      <generator class="native" /> <!-- 主键自增。使用数据库自带的生成器 -->
+    </id>
+    <property name="UserName" column="user_name" type="String"/> <!-- 只有主键用id，其他字段都用property -->
+    <property name="UserPwd" column="user_pwd" type="String"/> <!-- 是NHibernate定义的类型，查看文档http://nhibernate.info/doc/nhibernate-reference/index.html搜索type -->
+    <property name="UserRegisterTime" column="user_register_time" type="Date"/>
+  </class>
+
+</hibernate-mapping>
+

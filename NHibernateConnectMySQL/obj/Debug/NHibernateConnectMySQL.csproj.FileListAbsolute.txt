@@ -1,0 +1,13 @@
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\NHibernateConnectMySQL.exe.config
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\hibernate.cfg.xml
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\NHibernateConnectMySQL.exe
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\NHibernateConnectMySQL.pdb
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\Iesi.Collections.dll
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\MySql.Data.dll
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\NHibernate.dll
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\Iesi.Collections.xml
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\MySql.Data.xml
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\bin\Debug\NHibernate.xml
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\obj\Debug\NHibernateConnectMySQL.csprojResolveAssemblyReference.cache
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\obj\Debug\NHibernateConnectMySQL.exe
+F:\Learning\CSharpConnectMySQL\NHibernateConnectMySQL\obj\Debug\NHibernateConnectMySQL.pdb

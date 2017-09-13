@@ -1,0 +1,7 @@
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\bin\Debug\CSharpConnectMySQL.exe.config
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\bin\Debug\CSharpConnectMySQL.exe
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\bin\Debug\CSharpConnectMySQL.pdb
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\bin\Debug\MySql.Data.dll
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\bin\Debug\MySql.Data.xml
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\obj\Debug\CSharpConnectMySQL.exe
+F:\Learning\CSharpConnectMySQL\CSharpConnectMySQL\obj\Debug\CSharpConnectMySQL.pdb
